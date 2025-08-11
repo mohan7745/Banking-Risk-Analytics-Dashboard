@@ -14,8 +14,10 @@ Segment clients by income and engagement
 Track and visualize key KPIs
 Support real-time loan decision-making through dashboards
 </br>
+  
 <h3>The entire pipeline uses:<h3>
 </br>
+ 
 Excel for initial data exploration
 Python for data cleaning and feature engineering
 MySQL for relational data querying
