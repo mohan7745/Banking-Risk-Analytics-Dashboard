@@ -48,8 +48,8 @@ These are joined using primary and foreign keys, following best practices in dat
 <li><strong>Processing Fees</strong> – fee calculated based on loan size and fee structure
 </br></br>
 <li>Used Python for:
-<ul><li>Merging and transforming raw data
-<li>Calculating DAX-ready columns for Power BI
-<li>Handling missing values and outliers</ul>
+<ul> <li>Merging and transforming raw data
+<li> Calculating DAX-ready columns for Power BI
+<li> Handling missing values and outliers</ul>
 
 
