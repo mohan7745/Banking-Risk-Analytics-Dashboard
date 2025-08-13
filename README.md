@@ -46,6 +46,6 @@ These are joined using primary and foreign keys, following best practices in dat
 <li><strong>Engagement Days></strong>  – number of days from account start to today
 <li><strong>Income Band</strong> – segmented income levels (Low, Mid, High)
 <li><strong>Processing Fees</strong> – fee calculated based on loan size and fee structure
-list-style-type:circle
+list-style-type:circle;hi
 
 
