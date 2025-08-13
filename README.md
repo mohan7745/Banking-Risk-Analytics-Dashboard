@@ -66,7 +66,7 @@ These are joined using primary and foreign keys, following best practices in dat
 All KPIs were calculated using DAX formulas like <code>SUM</code> , <code>SUMX</code> , <code> DISTINCTCOUNT</code> , <code>DATEDIFF</code> and  <code>SWITCH</code> .
 </br></br>
 <h1>📊 Dashboards</h1>
-<h1>🏠 Home Dashboard</h1></br>
+<h3>🏠 Home Dashboard</h3></br>
 High-level summary with filters by gender, nationality, and income band.
 
 
