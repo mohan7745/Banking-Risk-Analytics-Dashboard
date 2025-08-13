@@ -23,7 +23,7 @@ The entire pipeline uses:
 </br>
 <h1>💻 Technologies Used</h1>
 </br></br>
-<li></li><h4>Power BI</h4>– Interactive dashboards and data visualizations
+<li><strong>Power BI </strong> – Interactive dashboards and data visualizations</li>
 MySQL – Data extraction, joins, and aggregations
 Python (Pandas, NumPy) – Preprocessing and custom metric creation
 Excel – Early-stage data analysis and profiling
