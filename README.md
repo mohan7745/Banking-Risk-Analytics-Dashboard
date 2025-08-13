@@ -50,6 +50,9 @@ These are joined using primary and foreign keys, following best practices in dat
 <strong>Used Python for:</strong>
 <li> Merging and transforming raw data
 <li> Calculating DAX-ready columns for Power BI
-<li> Handling missing values and outliers</ul>
+<li> Handling missing values and outliers
+</br>
+<li>Stored final cleaned data in <strong>MySQL</strong>for Power BI import
+
 
 
