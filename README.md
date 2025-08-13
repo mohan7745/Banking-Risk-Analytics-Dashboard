@@ -47,8 +47,6 @@ These are joined using primary and foreign keys, following best practices in dat
 <li><strong>Income Band</strong> – segmented income levels (Low, Mid, High)
 <li><strong>Processing Fees</strong> – fee calculated based on loan size and fee structure
 </br></br>
-<style type="text/css">
-  ul{list-style;circle;}
 <strong>Used Python for:</strong>
 <ul> <li>Merging and transforming raw data
 <li> Calculating DAX-ready columns for Power BI
