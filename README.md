@@ -56,6 +56,9 @@ These are joined using primary and foreign keys, following best practices in dat
 </br></br>
 <h1>🧮 Key KPIs and DAX Metrics</h1>
 
-/table
+<div style="border: 2px solid #007BFF; padding: 15px; border-radius: 8px; background-color: #f9f9ff;">
+    <h3>Note</h3>
+    <p>This is a highlighted box to display special content in GitHub Pages.</p>
+</div>
 
 
