@@ -7,9 +7,9 @@ A full-stack banking analytics project using Power BI, MySQL, Python, and Excel 
 Banks face increasing risk when lending to unqualified customers. The goal of this project is to develop a risk analytics system that helps financial institutions make smarter decisions on loan approvals based on historical banking behavior and customer profiles.
 </br>
 <h1>💡 Solution Overview</h1></br>
- <h3>This project processes and analyzes relational banking data to:<h3>
+This project processes and analyzes relational banking data to:
 </br>
-Assess loan default risk </br>
+</align></align>Assess loan default risk </br>
 Segment clients by income and engagement</br>
 Track and visualize key KPIs </br>
 Support real-time loan decision-making through dashboards
