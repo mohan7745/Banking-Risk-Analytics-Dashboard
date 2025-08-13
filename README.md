@@ -55,40 +55,12 @@ These are joined using primary and foreign keys, following best practices in dat
 <li>Stored final cleaned data in <strong>MySQL</strong> for Power BI import
 </br></br>
 <h1>🧮 Key KPIs and DAX Metrics</h1>
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>KPIs Box</title>
-</head>
-<body style="margin:0;background:#f5f6f8;font-family:Arial,Helvetica,sans-serif">
-  <div style="max-width:880px;margin:24px auto;padding:20px;background:#fff;border:1px solid #d9d9d9;border-radius:10px;box-shadow:0 2px 6px rgba(0,0,0,.08)">
-    <div style="font-size:20px;font-weight:700;display:flex;gap:10px;align-items:center;margin-bottom:14px">
-      <span>📊</span> <span>Key KPIs and DAX Metrics</span>
-    </div>
-
-    <table style="width:100%;border-collapse:collapse;font-size:14px">
-      <thead>
-        <tr>
-          <th style="text-align:left;padding:10px;border:1px solid #e3e3e3;background:#f3f4f6;width:200px">KPI</th>
-          <th style="text-align:left;padding:10px;border:1px solid #e3e3e3;background:#f3f4f6">Description</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td style="padding:10px;border:1px solid #e3e3e3;font-weight:700">Total Clients</td>
-          <td style="padding:10px;border:1px solid #e3e3e3">Count of unique client IDs</td>
-        </tr>
-        <tr>
-          <td style="padding:10px;border:1px solid #e3e3e3;font-weight:700">Total Loan</td>
-          <td style="padding:10px;border:1px solid #e3e3e3">Bank Loan + Business Lending + Credit Card Balance</td>
-        </tr>
-        <tr>
-          <td style="padding:10px;border:1px solid #e3e3e3;font-weight:700">Total Deposits</td>
-          <td style="padding:10px;border:1px solid #e3e3e3">Sum of Savings, Bank, Checking, and Foreign Currency Accounts</td>
-        </tr>
-        <tr>
-          <td style="padding:10px;border:1px solid #e3
-
+        <strong>KPI</strong>
+<code>Total Clients</code>
+<code>Total Loan</code>
+<code>Total Deposits</code>
+<code>Processing Fees</code>
+<code>Engagement Days</code>
+<code>Credit Card Balance</code>
 
 
