@@ -43,7 +43,7 @@ These are joined using primary and foreign keys, following best practices in dat
 </br></br>
 <strong>Created new columns:</strong>
 <ul> <li><strong>Engagement Timeframe</strong> – total client relationship length
-<ul> <li><strong>Engagement Days</strong>  – number of days from account start to today
+<ul><li><strong>Engagement Days</strong>  – number of days from account start to today
 <ul> <li><strong>Income Band</strong> – segmented income levels (Low, Mid, High)
 <ul> <li><strong>Processing Fees</strong> – fee calculated based on loan size and fee structure
 </br></br>
