@@ -15,11 +15,11 @@ This project processes and analyzes relational banking data to:
 <li>Support real-time loan decision-making through dashboards
 </br></br>
 The entire pipeline uses:
-</br>
-<li>Excel for initial data exploration<li>
-<li>Python for data cleaning and feature engineering<li>
-<li>MySQL for relational data querying<li>
-<li>Power BI for KPI dashboard development<li>
+</br></br>
+<li>Excel for initial data exploration</li>
+<li>Python for data cleaning and feature engineering</li>
+<li>MySQL for relational data querying</li>
+<li>Power BI for KPI dashboard development</li>
 
 
 
