@@ -56,11 +56,11 @@ These are joined using primary and foreign keys, following best practices in dat
 </br></br>
 <h1>🧮 Key KPIs and DAX Metrics</h1>
         <strong>KPI</strong></br></br>
-<code>Total Clients</code>             Count of unique client IDs
-<code>Total Loan</code>                 Bank Loan + Business Lending + Credit Card Balance
-<code>Total Deposits</code>            Sum of Savings, Bank, Checking, and Foreign Currency Accounts 
-<code>Processing Fees</code>          Loan amount × processing rate 
-<code>Engagement Days</code>            Days between joining and today                 
-<code>Credit Card Balance</code>       Days between joining and today           
+<code>Total Clients</code>          🡢   Count of unique client IDs</br>
+<code>Total Loan</code>             🡢   Bank Loan + Business Lending + Credit Card Balance</br>
+<code>Total Deposits</code>         🡢   Sum of Savings, Bank, Checking, and Foreign Currency Accounts </br>
+<code>Processing Fees</code>        🡢   Loan amount × processing rate </br>
+<code>Engagement Days</code>        🡢   Days between joining and today </br>          
+<code>Credit Card Balance</code>    🡢   Days between joining and today </br>          
 
 
