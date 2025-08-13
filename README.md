@@ -40,8 +40,8 @@ The project uses a multi-table relational database with the following key tables
 These are joined using primary and foreign keys, following best practices in database normalization.
 </br></br>
 <h1>🧹 Data Cleaning & Feature Engineering</h1>
-</br>
-</strong>Created new columns:</strong></br>
+</br></br>
+<strong>Created new columns:</strong>
 <ul> <li><strong>Engagement Timeframe</strong> – total client relationship length
 <ul> <li><strong>Engagement Days</strong>  – number of days from account start to today
 <ul> <li><strong>Income Band</strong> – segmented income levels (Low, Mid, High)
