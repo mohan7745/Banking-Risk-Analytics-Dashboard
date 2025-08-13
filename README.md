@@ -9,15 +9,8 @@ Banks face increasing risk when lending to unqualified customers. The goal of th
 <h1>💡 Solution Overview</h1></br>
  <h3>This project processes and analyzes relational banking data to:<h3>
 </br>
-
+Assess loan default risk
+Segment clients by income and engagement
+Track and visualize key KPIs
 Support real-time loan decision-making through dashboards
-</br>
-  
-<h3>The entire pipeline uses:<h3>
-</br>
- Excel for initial data exploration
-Python for data cleaning and feature engineering
-MySQL for relational data querying
-Power BI for KPI dashboard development
-
 
