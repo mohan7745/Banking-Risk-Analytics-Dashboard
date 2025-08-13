@@ -67,7 +67,7 @@ All KPIs were calculated using DAX formulas like <code>SUM</code> , <code>SUMX</
 </br></br>
 <h1>📊 Dashboards</h1>
 <h3>🏠 Home Dashboard</h3>
-High-level summary with filters by gender, nationality, and income band.</br>
+High-level summary with filters by gender, nationality, and income band.</br></br>
 <img width="1280" height="745" alt="image" src="https://github.com/mohan7745/Banking-Risk-Analytics-Dashboard/blob/main/br2.jpg?raw=true" />
 
 
