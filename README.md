@@ -68,7 +68,6 @@ All KPIs were calculated using DAX formulas like <code>SUM</code> , <code>SUMX</
 <h1>📊 Dashboards</h1>
 <h3>🏠 Home Dashboard</h3>
 High-level summary with filters by gender, nationality, and income band.
-https://image2url.com/images/1755104381204-f641ab6e-4202-4833-bd70-3a7dc8f3d7c1.jpg
 
 
 
