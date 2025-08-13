@@ -61,6 +61,9 @@ These are joined using primary and foreign keys, following best practices in dat
 <code>Total Deposits</code>         🡢   Sum of Savings, Bank, Checking, and Foreign Currency Accounts </br>
 <code>Processing Fees</code>        🡢   Loan amount × processing rate </br>
 <code>Engagement Days</code>        🡢   Days between joining and today </br>          
-<code>Credit Card Balance</code>    🡢   Days between joining and today </br>          
+<code>Credit Card Balance</code>    🡢   Days between joining and today </br>  
+</br></br>
+All KPIs were calculated using DAX formulas like <code> SUM</code>  <code>SUMX</code>  <code> DISTINCTCOUNT</code>  <code>DATEDIFF</code> and  <code>SWITCH</code>  
+
 
 
