@@ -41,11 +41,11 @@ These are joined using primary and foreign keys, following best practices in dat
 </br></br>
 <h1>🧹 Data Cleaning & Feature Engineering</h1>
 </br>
-</strong>Created new columns:</strong>
-<li><strong>Engagement Timeframe</strong> – total client relationship length
-<li><strong>Engagement Days></strong>  – number of days from account start to today
-<li><strong>Income Band</strong> – segmented income levels (Low, Mid, High)
-<li><strong>Processing Fees</strong> – fee calculated based on loan size and fee structure
+</strong>Created new columns:</strong></br>
+<ul><li><strong>Engagement Timeframe</strong> – total client relationship length
+<ul><li><strong>Engagement Days></strong>  – number of days from account start to today
+<ul><li><strong>Income Band</strong> – segmented income levels (Low, Mid, High)
+<ul><li><strong>Processing Fees</strong> – fee calculated based on loan size and fee structure
 </br></br>
 <strong>Used Python for:</strong>
 <ul> <li>Merging and transforming raw data
