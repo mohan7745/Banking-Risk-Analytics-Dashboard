@@ -9,10 +9,10 @@ Banks face increasing risk when lending to unqualified customers. The goal of th
 <h1>💡 Solution Overview</h1></br>
 This project processes and analyzes relational banking data to:
 </br>
-<li></li>Assess loan default risk </br>
-Segment clients by income and engagement</br>
-Track and visualize key KPIs </br>
-Support real-time loan decision-making through dashboards
+<li>Assess loan default risk</li> </br>
+<li>Segment clients by income and engagement</li></br>
+<li>Track and visualize key KPIs</li> </br>
+<li>Support real-time loan decision-making through dashboards</li>
 
 
 
