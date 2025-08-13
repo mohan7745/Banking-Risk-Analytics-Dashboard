@@ -48,7 +48,7 @@ These are joined using primary and foreign keys, following best practices in dat
 <li><strong>Processing Fees</strong> – fee calculated based on loan size and fee structure
 </br></br>
 <ul style="list-style-type: circle;">
-<li>hollow circle</li>
+hii
 </ul>
 
 
