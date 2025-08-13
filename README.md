@@ -42,14 +42,14 @@ These are joined using primary and foreign keys, following best practices in dat
 <h1>🧹 Data Cleaning & Feature Engineering</h1>
 </br></br>
 <strong>Created new columns:</strong>
-<ul> <li><strong>Engagement Timeframe</strong> – total client relationship length
-<ul><li><strong>Engagement Days</strong>  – number of days from account start to today
-<ul> <li><strong>Income Band</strong> – segmented income levels (Low, Mid, High)
-<ul> <li><strong>Processing Fees</strong> – fee calculated based on loan size and fee structure
+<li><strong>Engagement Timeframe</strong> – total client relationship length
+<li><strong>Engagement Days</strong>  – number of days from account start to today
+<li><strong>Income Band</strong> – segmented income levels (Low, Mid, High)
+<li><strong>Processing Fees</strong> – fee calculated based on loan size and fee structure
 </br></br>
 <strong>Used Python for:</strong>
-<ul><li> Merging and transforming raw data
-<ul><li> Calculating DAX-ready columns for Power BI
-<ul><li> Handling missing values and outliers</ul>
+<li> Merging and transforming raw data
+<li> Calculating DAX-ready columns for Power BI
+<li> Handling missing values and outliers</ul>
 
 
