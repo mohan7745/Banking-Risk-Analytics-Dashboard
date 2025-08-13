@@ -30,12 +30,13 @@ The entire pipeline uses:
 </br>
 <h1>📂 Dataset Overview</h1>
 The project uses a multi-table relational database with the following key tables:
+</br>
 <li> <code>Client-Banking</code>
 <li> <code>Banking Relationship</code>
 <li> <code>Gender</code>
 <li> <code>Investment Advisor</code>
 <li> <code>Period</code>
-</br>
+</br></br>
 These are joined using primary and foreign keys, following best practices in database normalization.
 </br></br>
 <h1>🧹 Data Cleaning & Feature Engineering</h1>
