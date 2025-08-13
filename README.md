@@ -22,7 +22,10 @@ The entire pipeline uses:
 <li>Power BI for KPI dashboard development</li>
 </br>
 <h1>💻 Technologies Used</h1>
-<h6>Power BI</h6>
-
+</br></br>
+<li><h4>Power BI </h4>  – Interactive dashboards and data visualizations</li>
+<li><h4>MySQL</h4>– Data extraction, joins, and aggregations</li>
+<li><h4>Python (Pandas, NumPy) </h4>– Preprocessing and custom metric creation</li>
+<li><h4>Excel</h4> – Early-stage data analysis and profiling</li>
 
 
