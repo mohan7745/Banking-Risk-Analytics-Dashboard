@@ -30,7 +30,7 @@ The entire pipeline uses:
 </br>
 <h1>📂 Dataset Overview</h1>
 The project uses a multi-table relational database with the following key tables:
-</br>
+</br></br>
 <li> <code>Client-Banking</code>
 <li> <code>Banking Relationship</code>
 <li> <code>Gender</code>
