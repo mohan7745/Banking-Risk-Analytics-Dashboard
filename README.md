@@ -55,7 +55,7 @@ These are joined using primary and foreign keys, following best practices in dat
 <li>Stored final cleaned data in <strong>MySQL</strong> for Power BI import
 </br></br>
 <h1>🧮 Key KPIs and DAX Metrics</h1>
-        <strong>KPI</strong>
+        <strong>KPI</strong></br>  
 <code>Total Clients</code></br>               Count of unique client IDs
 <code>Total Loan</code></br>                  Bank Loan + Business Lending + Credit Card Balance
 <code>Total Deposits</code></br>              Sum of Savings, Bank, Checking, and Foreign Currency Accounts 
