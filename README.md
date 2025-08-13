@@ -20,6 +20,9 @@ The entire pipeline uses:
 <li>Python for data cleaning and feature engineering</li>
 <li>MySQL for relational data querying</li>
 <li>Power BI for KPI dashboard development</li>
+</br>
+<h1>💻 Technologies Used</h1>
+<h6>Power BI</h6>
 
 
 
