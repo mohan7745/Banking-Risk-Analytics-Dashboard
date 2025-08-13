@@ -27,5 +27,13 @@ The entire pipeline uses:
 <li><strong>MySQL</strong>– Data extraction, joins, and aggregations
 <li><strong>Python (Pandas, NumPy)</strong> – Preprocessing and custom metric creation
 <li><strong> Excel </strong>– Early-stage data analysis and profiling
+</br>
+<h1>📂 Dataset Overview</h1>h1>
+The project uses a multi-table relational database with the following key tables:
+<li> <code>Client-Banking</code>
+<li> <code>Banking Relationship </code>
+<li> <code>Gender <code>
+<li> <code>Investment Advisor </code>
+<li> <code>Period </code>
 
 
