@@ -32,7 +32,7 @@ The entire pipeline uses:
 The project uses a multi-table relational database with the following key tables:
 <li> <code>Client-Banking</code>
 <li> <code>Banking Relationship</code>
-<li> <code>Gender</code>code>
+<li> <code>Gender</code>
 <li> <code>Investment Advisor</code>
 <li> <code>Period</code>
 
