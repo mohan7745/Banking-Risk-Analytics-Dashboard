@@ -78,6 +78,6 @@ Breakdown of loan type, amount, default risk, and credit balances.
 <h1>🏦 Deposit Analysis</h1>
 Visualization of client deposits across all account types.
 </br></br>
-
+<img width="1280" height="745" alt="image" src="https://github.com/mohan7745/Banking-Risk-Analytics-Dashboard/blob/main/Br4.jpg?raw=true"/>
 
 
