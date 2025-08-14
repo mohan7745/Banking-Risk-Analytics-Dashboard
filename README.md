@@ -120,7 +120,8 @@ banking-risk-analytics-dashboard/  </br>
 
  </br>---------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h1>🙋‍♂️ Developer</h1>
-<h4>Mohan Pathlavath</h4> </br>  Power BI | Python | SQL | MySQ
+<h4>Mohan Pathlavath</h4> </br> 
+Power BI | Python | SQL | MySQL
 
 
 
