@@ -101,6 +101,7 @@ Interactive summary with client segmentation, engagement, and advisor data.
 <li>🌍 Add geo-level dashboard filtering (branch-wise performance)</br>
 <li>🔔 Add Power BI alerts for flagged high-risk clients</br>
 </br></br>
+-------------------------------------------------------------------------------
 <h1>📁 Project Structure</h1>
 </br>
 banking-risk-analytics-dashboard/  </br> 
