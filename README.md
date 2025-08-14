@@ -95,13 +95,11 @@ Interactive summary with client segmentation, engagement, and advisor data.
 <li>💳 Foreign nationals tend to hold larger loan balances</br>
 <li>🔄 High-income clients show longer engagement and more deposits</br>
 <li>⚠️ Processing fees vary significantly by fee structure and loan type</br>
-
 </br></br>
 <h1>🔭 Future Enhancements</h1>
 <li>💡 Integrate ML model to predict loan default risk</br>
 <li>🌍 Add geo-level dashboard filtering (branch-wise performance)</br>
 <li>🔔 Add Power BI alerts for flagged high-risk clients</br>
-
 </br></br>
 <h1>📁 Project Structure</h1>
 </br>
