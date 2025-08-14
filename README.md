@@ -55,13 +55,18 @@ These are joined using primary and foreign keys, following best practices in dat
 <li>Stored final cleaned data in <strong>MySQL</strong> for Power BI import
 </br></br>
 <h1>🧮 Key KPIs and DAX Metrics</h1>
-        <strong>KPI</strong>     <strong>Description</strong></br></br> 
-<code>Total Clients</code>          🡢   Count of unique client IDs</br>
-<code>Total Loan</code>             🡢   Bank Loan + Business Lending + Credit Card Balance</br>
-<code>Total Deposits</code>         🡢   Sum of Savings, Bank, Checking, and Foreign Currency Accounts </br>
-<code>Processing Fees</code>        🡢   Loan amount × processing rate </br>
-<code>Engagement Days</code>        🡢   Days between joining and today </br>          
-<code>Credit Card Balance</code>    🡢   Days between joining and today </br>  
+
+| KPI               | Description |
+|-----------------------|-----------------|
+| Total Clients       | Count of unique client IDs |
+| Total Loan          | Bank Loan + Business Lending + Credit Card Balance |
+| Total Deposits      | Sum of Savings, Bank, Checking, and Foreign Currency Accounts |
+| Processing Fees     | Loan amount × processing rate |
+| Engagement Days     | Days between joining and today |
+| Credit Card Balance | Total current credit card debt across all clients |
+| Bank Deposit        | Total deposited amount across bank accounts |
+
+_All KPIs were calculated using DAX formulas like_ SUM, SUMX, DISTINCTCOUNT 
 </br></br>
 All KPIs were calculated using DAX formulas like <code>SUM</code> , <code>SUMX</code> , <code> DISTINCTCOUNT</code> , <code>DATEDIFF</code> and  <code>SWITCH</code> .
 </br></br>
