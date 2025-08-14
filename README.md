@@ -66,8 +66,7 @@ These are joined using primary and foreign keys, following best practices in dat
 | Credit Card Balance | Total current credit card debt across all clients |
 | Bank Deposit        | Total deposited amount across bank accounts |
 
-</br></br></br>
-
+</br></br>
 All KPIs were calculated using DAX formulas like <code>SUM</code> , <code>SUMX</code> , <code> DISTINCTCOUNT</code> , <code>DATEDIFF</code> and  <code>SWITCH</code> .
 </br></br>
 <h1>📊 Dashboards</h1>
