@@ -104,17 +104,17 @@ Interactive summary with client segmentation, engagement, and advisor data.
 <h1>📁 Project Structure</h1>
 </br>
 banking-risk-analytics-dashboard/
-├── Banking Report.docx                # Final project report document
-├── README.md                          # Project summary and documentation
+├── Banking Report.docx               
+├── README.md                          
 ├── Data/
-│   └── clients_data.csv              # Cleaned or raw dataset
+│   └── clients_data.csv             
 ├── Power BI Dashboards/
-│   └── banking_dashboard.pbix        # Power BI dashboard file
+│   └── banking_dashboard.pbix      
 ├── Images/
-│   ├── home-dashboard.png            # Screenshot of Home Dashboard
-│   ├── loan-dashboard.png            # Screenshot of Loan Analysis
-│   ├── deposit-dashboard.png         # Screenshot of Deposit Analysis
-│   └── summary-dashboard.png         # Screenshot of Summary Dashboard
+│   ├── home-dashboard.png           
+│   ├── loan-dashboard.png           
+│   ├── deposit-dashboard.png     
+│   └── summary-dashboard.png         
 ├── Python Scripts/
-│   └── data_cleaning.py              # Python script for data preprocessing
-├── .gitignore                        # Git ignore rules
+│   └── data_cleaning.py              
+├── .gitignore              
