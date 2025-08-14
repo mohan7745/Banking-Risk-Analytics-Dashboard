@@ -96,4 +96,27 @@ Interactive summary with client segmentation, engagement, and advisor data.
 <li>🔄 High-income clients show longer engagement and more deposits</br>
 <li>⚠️ Processing fees vary significantly by fee structure and loan type</br>
 
+</br></br>
+<h1>🔭 Future Enhancements</h1>
+<li>💡 Integrate ML model to predict loan default risk</br>
+<li>🌍 Add geo-level dashboard filtering (branch-wise performance)</br>
+<li>🔔 Add Power BI alerts for flagged high-risk clients</br>
 
+</br></br>
+<h1>📁 Project Structure</h1>
+</br>
+banking-risk-analytics-dashboard/
+├── Banking Report.docx                # Final project report document
+├── README.md                          # Project summary and documentation
+├── Data/
+│   └── clients_data.csv              # Cleaned or raw dataset
+├── Power BI Dashboards/
+│   └── banking_dashboard.pbix        # Power BI dashboard file
+├── Images/
+│   ├── home-dashboard.png            # Screenshot of Home Dashboard
+│   ├── loan-dashboard.png            # Screenshot of Loan Analysis
+│   ├── deposit-dashboard.png         # Screenshot of Deposit Analysis
+│   └── summary-dashboard.png         # Screenshot of Summary Dashboard
+├── Python Scripts/
+│   └── data_cleaning.py              # Python script for data preprocessing
+├── .gitignore                        # Git ignore rules
