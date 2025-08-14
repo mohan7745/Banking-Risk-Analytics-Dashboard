@@ -65,7 +65,6 @@ These are joined using primary and foreign keys, following best practices in dat
 | Engagement Days     | Days between joining and today |
 | Credit Card Balance | Total current credit card debt across all clients |
 | Bank Deposit        | Total deposited amount across bank accounts |
-
 </br></br>
 All KPIs were calculated using DAX formulas like <code>SUM</code> , <code>SUMX</code> , <code> DISTINCTCOUNT</code> , <code>DATEDIFF</code> and  <code>SWITCH</code> .
 </br></br>
@@ -88,4 +87,12 @@ Visualization of client deposits across all account types.
 Interactive summary with client segmentation, engagement, and advisor data.
 </br></br>
 <img width="1280" height="745" alt="image" src="https://github.com/user-attachments/assets/7698988f-1c21-4d3a-aab1-d4ae09eaca8b" />
+
+</br></br>
+<h1>✅ Insights & Observations</h1>
+<li>📈 Private banks have the highest client counts and total loans issued</br>
+<li>💳 Foreign nationals tend to hold larger loan balances</br>
+<li>🔄 High-income clients show longer engagement and more deposits</br>
+<li>⚠️ Processing fees vary significantly by fee structure and loan type</br>
+
 
